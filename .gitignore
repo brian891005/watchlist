@@ -3,5 +3,8 @@
 __pycache__
 .DS_Store
 .env
+*.db
 htmlcov/
 .coverage
+venv
+env
